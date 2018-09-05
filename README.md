@@ -4,7 +4,7 @@ Simple forum app that allows multiple users to post messages that will be update
 
 ## Getting Started
 
-Download a copy into your local computer
+Clone a copy into your local computer
 
 ### Prerequisites
 
